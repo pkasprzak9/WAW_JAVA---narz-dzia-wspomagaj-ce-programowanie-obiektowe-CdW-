@@ -3,8 +3,8 @@ from tkinter import *
 #   count = 0
 
 def click():
-    #  global count
-    #  count+=1
+#  global count
+#  count+=1
     print('Stop it!')
 
 window = Tk()

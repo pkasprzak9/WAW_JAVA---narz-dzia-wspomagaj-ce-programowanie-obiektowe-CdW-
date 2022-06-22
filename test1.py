@@ -6,7 +6,7 @@ def submit():
 
 def delete():
     entry.delete(0, END)
-    print('Text has been deleted')
+    print('Password has ben deleted')
 
 def backspace():
     entry.delete((len(entry.get())-1), END)
